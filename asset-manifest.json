@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Jony-react/static/css/main.a5c2c992.chunk.css",
+    "main.js": "/Jony-react/static/js/main.e86575af.chunk.js",
+    "main.js.map": "/Jony-react/static/js/main.e86575af.chunk.js.map",
+    "runtime-main.js": "/Jony-react/static/js/runtime-main.0fa5a8e0.js",
+    "runtime-main.js.map": "/Jony-react/static/js/runtime-main.0fa5a8e0.js.map",
+    "static/css/2.e8e1db77.chunk.css": "/Jony-react/static/css/2.e8e1db77.chunk.css",
+    "static/js/2.bb1e80e8.chunk.js": "/Jony-react/static/js/2.bb1e80e8.chunk.js",
+    "static/js/2.bb1e80e8.chunk.js.map": "/Jony-react/static/js/2.bb1e80e8.chunk.js.map",
+    "static/js/3.bc4df6a9.chunk.js": "/Jony-react/static/js/3.bc4df6a9.chunk.js",
+    "static/js/3.bc4df6a9.chunk.js.map": "/Jony-react/static/js/3.bc4df6a9.chunk.js.map",
+    "index.html": "/Jony-react/index.html",
+    "static/css/2.e8e1db77.chunk.css.map": "/Jony-react/static/css/2.e8e1db77.chunk.css.map",
+    "static/css/main.a5c2c992.chunk.css.map": "/Jony-react/static/css/main.a5c2c992.chunk.css.map",
+    "static/js/2.bb1e80e8.chunk.js.LICENSE.txt": "/Jony-react/static/js/2.bb1e80e8.chunk.js.LICENSE.txt",
+    "static/media/image1.7cb10c16.gif": "/Jony-react/static/media/image1.7cb10c16.gif",
+    "static/media/image2.e4d43af5.gif": "/Jony-react/static/media/image2.e4d43af5.gif",
+    "static/media/image3.93ced9de.gif": "/Jony-react/static/media/image3.93ced9de.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fa5a8e0.js",
+    "static/css/2.e8e1db77.chunk.css",
+    "static/js/2.bb1e80e8.chunk.js",
+    "static/css/main.a5c2c992.chunk.css",
+    "static/js/main.e86575af.chunk.js"
+  ]
+}
